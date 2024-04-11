@@ -1,9 +1,3 @@
-Project name: crud application using mern stack
-Poject author: thewebsources
-website-name: https://thewebsources.com/
-Youtube-channel: https://www.youtube.com/@thewebsources
-Video-link: https://youtu.be/3ywB6hstbfw
-
 =========================================================================
 
 steps to run crud application Project
@@ -12,12 +6,10 @@ steps to run crud application Project
 step-1:
 ======
 Install node js (if you haven't installed)
-website url: https://nodejs.org/en
 
 step-2:
 ======
 Login in the mongodb database and create a new cluster and database
-website url: https://www.mongodb.com/
 
 step-3:
 ======
